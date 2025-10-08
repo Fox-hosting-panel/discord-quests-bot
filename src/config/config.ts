@@ -13,9 +13,9 @@ export default {
     prefix: "!",
     developers: ["527826654660132890"],
     database: {
-        type: SupportedDatabaseTypes.MongoDB,
-        url: "mongodb://localhost:27017/badge2",
-    },
+    type: null,
+    url: "",
+},
 
 
 } as Config
